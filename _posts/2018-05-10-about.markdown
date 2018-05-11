@@ -6,10 +6,12 @@ layout: post
 
 The Tundra Trait Team is an inclusive group of tundra ecologists involved in ongoing efforts to understand patterns of functional trait variation across scales, identify changes in functional traits in response to climate warming, and better understand the consequences of these changes for tundra ecosystem functioning. 
 
-The TTT was founded by ADB and IMS in association with members of the sTundra working group (German Centre for Integrative Biodiversity Research; iDiv) in an effort to increase the depth and breadth of trait data available for tundra plant species. The only requirement for membership of the TTT is the contribution of trait data; all are welcome to join. Please contact one of the lead authors for more information.
+The TTT was founded by Anne Bjorkman and Isla Myers-Smith in association with members of the sTundra working group (<a href=“https://www.idiv.de/” target=“_blank”>German Centre for Integrative Biodiversity Research; iDiv</a>) in an effort to increase the depth and breadth of trait data available for tundra plant species. The only requirement for membership of the TTT is the contribution of trait data; all are welcome to join. The Tundra Trait Team collaborates with the <a href=“www.try-db.org” target=“_blank”>TRY plant trait database</a>.
 
-Contact: <a href=“http://annebjorkman.com/” target=“_blank”>Anne Bjorkman</a> or <a href=“http://teamshrub.com/” target=“_blank”>Isla Myers-Smith
+For more information contact: <a href=“http://annebjorkman.com/” target=“_blank”>Anne Bjorkman</a> or <a href=“http://teamshrub.com/” target=“_blank”>Isla Myers-Smith</a>
 
 <center> <img src="https://tundratraitteam.github.io/images/fulls/trait_map1.png" alt="Img" style="width: 500px;"/> </center>
+
+The 85,000 Tundra Trait Team + TRY plant trait records  for 827 tundra species.  The size of the dots indicates the number of records.  The asterisks indicate vegetation monitoring sites from the International Tundra Experiment database.
 
 <center> <img src="https://tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
