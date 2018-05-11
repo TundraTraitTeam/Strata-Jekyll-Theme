@@ -6,10 +6,9 @@ google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  The Tundra Trait Team have compiled the largest data base of tundra plant traits to date
+  in collaboration with TRY data contributors and researchers working at sites around the tundra biome.
+  
 # Author details for the jekyll-seo-tag gem
 author:
   name: Tundra Trait Team
