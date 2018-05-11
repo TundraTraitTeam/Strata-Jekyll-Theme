@@ -17,4 +17,5 @@ The 85,000 Tundra Trait Team + TRY plant trait records  for 827 tundra species. 
 <center> <img src="https://tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
 
 The seeds of the mountain avens (<i>Dryas integrifolia</i>) twist as they develop. Once ripe, they stand upright and feather outward to be carried away by the wind, dispersing to new environments across the tundra landscape.
+
 Photo credit: Anne D. Bjorkman
