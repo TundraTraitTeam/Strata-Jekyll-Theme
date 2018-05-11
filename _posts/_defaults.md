@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: about
 categories:
-date:
+date: 11 May 2018
 ---
