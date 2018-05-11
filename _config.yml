@@ -2,7 +2,7 @@ locale: "en-UK"
 title: Tundra Trait Team # Title of your site
 url: "https://tundratraitteam.github.io/" # the base hostname & protocol for your site
 baseurl: "https://tundratraitteam.github.io/" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+google_analytics_key: "UA-119067303-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
