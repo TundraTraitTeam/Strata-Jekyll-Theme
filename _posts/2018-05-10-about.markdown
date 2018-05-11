@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<h2>About the Tundra Trait Team</h2>
+<h2>The Tundra Trait Team</h2>
 
 The Tundra Trait Team is an inclusive group of tundra ecologists involved in ongoing efforts to understand patterns of functional trait variation across scales, identify changes in functional traits in response to climate warming, and better understand the consequences of these changes for tundra ecosystem functioning. 
 
@@ -15,3 +15,6 @@ For more information contact: [Anne Bjorkman](http://annebjorkman.com/){:target=
 The 85,000 Tundra Trait Team + TRY plant trait records  for 827 tundra species.  The size of the dots indicates the number of records.  The asterisks indicate vegetation monitoring sites from the International Tundra Experiment database.
 
 <center> <img src="https://tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
+
+The seeds of the mountain avens (<i>Dryas integrifolia</i>) twist as they develop. Once ripe, they stand upright and feather outward to be carried away by the wind, dispersing to new environments across the tundra landscape.
+Photo credit: Anne D. Bjorkman
