@@ -1,7 +1,7 @@
-locale: "en-US"
-title: Strata # Title of your site
+locale: "en-UK"
+title: Tundra Trait Team # Title of your site
 url: "https://tundratraitteam.github.io/" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "https://tundratraitteam.github.io/" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
