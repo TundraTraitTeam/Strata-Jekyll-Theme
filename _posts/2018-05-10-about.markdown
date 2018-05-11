@@ -1,5 +1,5 @@
 ---
 layout: post
 ---
-<center> <img src="{{ site.baseurl }}/img/SAB_fig1.png" alt="Img" style="width: 500px;"/> </center>
+<center> <img src=" tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
 The Tundra Trait Team is an inclusive group of tundra ecologists involved in ongoing efforts to understand patterns of functional trait variation across scales, identify changes in functional traits in response to climate warming, and better understand the consequences of these changes for tundra ecosystem functioning. The TTT was founded by ADB and IMS in association with members of the sTundra working group (German Centre for Integrative Biodiversity Research; iDiv) in an effort to increase the depth and breadth of trait data available for tundra plant species. The only requirement for membership of the TTT is the contribution of trait data; all are welcome to join. Please contact one of the lead authors for more information.
