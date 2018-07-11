@@ -10,7 +10,7 @@ The TTT was founded by Anne Bjorkman and Isla Myers-Smith in association with me
 
 For more information contact: [Anne Bjorkman](http://annebjorkman.com/){:target="_blank"} or [Isla Myers-Smith](http://teamshrub.com/){:target="_blank"}
 
-<center> <img src="https://tundratraitteam.github.io/images/fulls/trait_map1.png" alt="Img" style="width: 500px;"/> </center>
+<iframe src="https://www.google.com/maps/d/embed?mid=1aLhFOEChPqX4KqA3E2A_lOb8pDmZPSr3" width="640" height="480"></iframe>
 
 The 85,000 Tundra Trait Team + TRY plant trait records  for 827 tundra species.  The size of the dots indicates the number of records.  The asterisks indicate vegetation monitoring sites from the International Tundra Experiment database.
 
@@ -19,3 +19,5 @@ The 85,000 Tundra Trait Team + TRY plant trait records  for 827 tundra species. 
 The seeds of the mountain avens (<i>Dryas integrifolia</i>) twist as they develop. Once ripe, they stand upright and feather outward to be carried away by the wind, dispersing to new environments across the tundra landscape.
 
 Photo credit: Anne D. Bjorkman
+
+<center> <img src="https://tundratraitteam.github.io/images/fulls/trait_map1.png" alt="Img" style="width: 500px;"/> </center>
