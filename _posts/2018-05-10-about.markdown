@@ -14,6 +14,12 @@ For more information contact: [Anne Bjorkman](http://annebjorkman.com/){:target=
 
 Version 1 of the Tundra Trait Team database contains nearly 92,000 trait observations on nearly 978 species. The map above indicates all unique TTT locations.
 
+<h2>TTT Contact Information</h2>
+
+The TTT database includes the name of the data contributor for every trait observation. If your analyses rely heavily on a data contributor's data, we recommend you get in touch with them (contact information below). We believe that collaborating with the original data contributors is beneficial to both data users and contributors, first because it recognizes the hard work that has gone into the collection of these data, and secondly because it can be helpful to data users to have input from someone who knows the sites and species so well.
+
+([Contact information](https://docs.google.com/spreadsheets/d/1dxD4TMsv_CoG-vWMcQFHRkFjD5Y1SaZ3r7mMmuuZxuA/edit?usp=sharing){:target="_blank"})
+
 <center> <img src="https://tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
 
 The seeds of the mountain avens (<i>Dryas integrifolia</i>) twist as they develop. Once ripe, they stand upright and feather outward to be carried away by the wind, dispersing to new environments across the tundra landscape.
