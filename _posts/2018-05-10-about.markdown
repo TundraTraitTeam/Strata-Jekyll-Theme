@@ -28,31 +28,35 @@ Major taxa and level of measurement: Trait measurements were made on 978 terrest
 
 <h2>Data use guidelines</h2>
 
-Data are publicly available using a Creative Commons Attribution 4.0 International copyright (CC BY 4.0).  Data are fully public but should be appropriately referenced by citing the data paper [http://doi.org/10.1111/geb.12821]. Although not mandatory, we additionally suggest that data users contact and collaborate with data contributors (names provided in the “DataContributor” column, contact information available through the TTT website: https://tundratraitteam.github.io/) whose datasets have contributed a substantial proportion (e.g., 5% or greater) of trait observations used in a particular paper or analysis.
+Data are publicly available using a Creative Commons Attribution 4.0 International copyright (CC BY 4.0).  Data are fully public but should be appropriately referenced by citing the data paper [<a href="http://doi.org/10.1111/geb.12821" target="_blank">http://doi.org/10.1111/geb.12821</a>]. Although not mandatory, we additionally suggest that data users contact and collaborate with data contributors (names provided in the “DataContributor” column, contact information available through the TTT website: <a href="https://tundratraitteam.github.io/" target="_blank">https://tundratraitteam.github.io/</a>) whose datasets have contributed a substantial proportion (e.g., 5% or greater) of trait observations used in a particular paper or analysis.
 
 <h2>Data availability & access</h2>
 
-The TTT database will be maintained at this GitHub repository (https://github.com/TundraTraitTeam) an archived 2018 version is also available in the following repo (https://github.com/ShrubHub/TraitHub). Trait data collection is ongoing; thus, we periodically release updated versions of the database. A new version number will be assigned every time there is a database update, and old database versions will be archived for reference. A static version of the cleaned database (v 1.0) will also be available at the Polar Data Catalogue (www.polardata.ca; CCI # 12949) and additionally submitted to the TRY plant trait database (www.try-db.org) for inclusion in the next TRY version release. Data retrieved through TRY are fully public but are subject to the usage guidelines outlined in TRY. 
+The TTT database will be maintained at this GitHub repository (<a href="https://github.com/TundraTraitTeam" target="_blank">https://github.com/TundraTraitTeam</a>) an archived 2018 version is also available in the following repo (<a href="https://github.com/ShrubHub/TraitHub" target="_blank">https://github.com/ShrubHub/TraitHub</a>). Trait data collection is ongoing; thus, we periodically release updated versions of the database. A new version number will be assigned every time there is a database update, and old database versions will be archived for reference. A static version of the cleaned database (v 1.0) will also be available at the Polar Data Catalogue (<a href="www.polardata.ca" target="_blank">www.polardata.ca</a>; CCI # 12949) and additionally submitted to the TRY plant trait database (<a href="www.try-db.org" target="_blank">www.try-db.org</a>) for inclusion in the next TRY version release. Data retrieved through TRY are fully public but are subject to the usage guidelines outlined in TRY. 
 
 <h2>Citations</h2>
 
 When using TTT data please cite the following data paper as the original source: 
 
-Bjorkman AD, IH Myers-Smith, SC Elmendorf, S Normand, HJD Thomas, et al. 2018. Tundra Trait Team: A database of plant traits spanning the tundra biome. Global Ecology and Biogeography. doi: http://doi.org/10.1111/geb.12821
+Bjorkman AD, IH Myers-Smith, SC Elmendorf, S Normand, HJD Thomas, et al. 2018. Tundra Trait Team: A database of plant traits spanning the tundra biome. Global Ecology and Biogeography. doi: <a href="http://doi.org/10.1111/geb.12821" target="_blank">http://doi.org/10.1111/geb.12821</a>
 
 Primary research papers that use these data:
 
-Bjorkman AD, IH Myers-Smith, SC Elmendorf, S Normand, N Rüger, et al. 2018. Changes in plant functional traits across a warming tundra biome. Nature. doi: http://doi.org/10.1038/s41586-018-0563-7
+Bjorkman AD, IH Myers-Smith, SC Elmendorf, S Normand, N Rüger, et al. 2018. Changes in plant functional traits across a warming tundra biome. Nature. doi: <a href="http://doi.org/10.1038/s41586-018-0563-7" target="_blank">http://doi.org/10.1038/s41586-018-0563-7</a>
 
-Thomas HJD, IH Myers-Smith, Bjorkman AD, SC Elmendorf, D Blok, et al. 2018. Traditional plant functional groups explain variation in economic but not size-related traits across the tundra biome. Global Ecology and Biogeography. doi: http://doi.org/10.1111/geb.12783
+Thomas HJD, IH Myers-Smith, Bjorkman AD, SC Elmendorf, D Blok, et al. 2018. Traditional plant functional groups explain variation in economic but not size-related traits across the tundra biome. Global Ecology and Biogeography. doi: <a href="http://doi.org/10.1111/geb.12783" target="_blank">http://doi.org/10.1111/geb.12783</a>
 
-Thomas HJD, AD Bjorkman, IH Myers-Smith, SC Elmendorf, J Kattge, et al. 2020. Global plant trait relationships extend to the climatic extremes of the tundra biome. Nature Communications. doi: https://doi.org/10.1038/s41467-020-15014-4
+Thomas HJD, AD Bjorkman, IH Myers-Smith, SC Elmendorf, J Kattge, et al. 2020. Global plant trait relationships extend to the climatic extremes of the tundra biome. Nature Communications. doi: <a href="https://doi.org/10.1038/s41467-020-15014-4" target="_blank">https://doi.org/10.1038/s41467-020-15014-4</a>
 
 <h2>TTT Contact Information</h2>
 
 The TTT database includes the name of the data contributor for every trait observation. If your analyses rely heavily on a data contributor's data, we recommend you get in touch with them (contact information below). We believe that collaborating with the original data contributors is beneficial to both data users and contributors, first because it recognizes the hard work that has gone into the collection of these data, and secondly because it can be helpful to data users to have input from someone who knows the sites and species so well.
 
 ([Contact information](https://docs.google.com/spreadsheets/d/1dxD4TMsv_CoG-vWMcQFHRkFjD5Y1SaZ3r7mMmuuZxuA/edit?usp=sharing){:target="_blank"})
+
+<h2>Acknowledgements</h2>
+
+This dataset is an outcome of the sTundra working group supported by <a href="https://www.idiv.de/en/sdiv.html" target="_blank">sDiv, the Synthesis Centre of the German Centre for Integrative Biodiversity Research (iDiv)</a>. We acknowledge the contributions many field assistants to trait data collection, and thank the governments, parks, field stations, and local and indigenous people for the opportunity to conduct research on their land.
 
 <center> <img src="https://tundratraitteam.github.io/images/fulls/adb-dryas.jpg" alt="Img" style="width: 500px;"/> </center>
 
